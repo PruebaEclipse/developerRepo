@@ -12,5 +12,6 @@ public with sharing class ChangePasswordController {
     
     // esto es un comentario
     //esto es otro comentario
+    //tercer comentario
    	public ChangePasswordController() {}
 }
