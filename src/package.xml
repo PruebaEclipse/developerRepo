@@ -1,24 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>*</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
+        <members>Claseprueba_tst</members>
+        <members>ContRerenderrendered</members>
+        <members>ControladorGrupal</members>
+        <members>ForgotPasswordController</members>
+        <members>ForgotPasswordControllerTest</members>
+        <members>InvoiceUtilities</members>
+        <members>MyProfilePageController</members>
+        <members>MyProfilePageControllerTest</members>
+        <members>MyRestResource</members>
+        <members>MyWebService</members>
+        <members>PrimeraClase</members>
+        <members>PruebaServicioWeb</members>
+        <members>ServicioWebDatacredito</members>
+        <members>SiteLoginController</members>
+        <members>SiteLoginControllerTest</members>
+        <members>SiteRegisterController</members>
+        <members>SiteRegisterControllerTest</members>
+        <members>SolicitarAnticipos</members>
+        <members>Validaciontrigger</members>
+        <members>controladorDatacredito</members>
+        <members>controladpr</members>
+        <members>crearFactura</members>
+        <members>guiaApex</members>
+        <members>probarBatch</members>
+        <members>probarBatchDosCampos</members>
+        <members>probarBatch_sch</members>
+        <members>sampleCon</members>
+        <members>soapClassPruebagrup</members>
+        <members>soapClassServiciowebDatacredito</members>
+        <members>soapSforceComSchemasClassMywebservi</members>
+        <members>soapSforceComSchemasClassPruebaserv</members>
+        <members>testGuiaApex</members>
         <name>ApexClass</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
     </types>
     <version>29.0</version>
 </Package>
