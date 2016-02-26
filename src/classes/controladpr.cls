@@ -12,7 +12,7 @@ public class controladpr{
                 //{
                    
                    List<SelectOption> listadepartamentos = new List<SelectOption>();
-                   listadepartamentos.add(new SelectOption('Cundinamarca','Cundinamarca')) ;
+                   listadepartamentos.add(new SelectOption('Cundinamarca','Cundinamarca'));
                    listadepartamentos.add(new SelectOption('Antioquia','Antioquia'));
                    listadepartamentos.add(new SelectOption('Valle del Cauca','Valle del Cauca'));
                     listadepartamentos.add(new SelectOption('Bolivar','Bolivar'));
